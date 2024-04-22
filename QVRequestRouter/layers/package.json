@@ -1,0 +1,15 @@
+{
+    "name": "qv-request-router-dependencies",
+    "version": "1.0.0",
+    "license": "MIT",
+    "dependencies": {
+        "@aws-sdk/client-ssm": "^3.556.0",
+        "@aws-sdk/node-http-handler": "^3.374.0",
+        "axios": "^1.6.8",
+        "http": "^0.0.1-security",
+        "https": "^1.0.0",
+        "xml-js": "^1.6.11"
+    },
+    "main": "index.js",
+    "type": "module"
+}
